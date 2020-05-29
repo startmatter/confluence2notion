@@ -22,7 +22,7 @@ The tool iterates over all available Confluence spaces and recursively converts 
 python confluence2notion.py YOUR_BASE_CONFLUENCE_URL PARENT_NOTION_PAGE_URL [--concurrency 4]
 ```
 
-###Example
+### Example
 ```
 python confluence2notion.py "https://startmatter.atlassian.net/wiki" https://www.notion.so/startmatter/Test-667ca481144a48c793b767adb55a9d5a
 ```
